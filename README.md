@@ -1,4 +1,4 @@
-<h2 align="center">A passionate Software Engineering Student from Sri Lanka</h2>
+<h1 align="center">A passionate Software Engineering Student..👋🏻</h1>
 
 - 🌱 I’m currently learning - **React | Spring Boot | Angular**
 - 💬 Ask me about - **Java | JavaScript | MySQL | PLSQL | PHP | HTML | CSS | XML | Photoshop | Illustrator | Adobe XD**
