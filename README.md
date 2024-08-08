@@ -1,6 +1,11 @@
-## 💫 About Me:
-🌱 I’m currently learning - React, Spring Boot, Angular<br>💬 Ask me about - Java, JavaScript, MySQL, PLSQL, PHP, HTML, CSS, XML, Photoshop, Adobe XD,
+<h2 align="center">A passionate Software Engineering Student from Sri Lanka</h2>
 
+- 🌱 I’m currently learning - **React | Spring Boot | Angular**
+- 💬 Ask me about - **Java | JavaScript | MySQL | PLSQL | PHP | HTML | CSS | XML | Photoshop | Illustrator | Adobe XD**
+- 👨‍💻 All of my projects are available at : <i>**[https://github.com/mdhanush666?tab=repositories]</i>(https://github.com/mdhanush666?tab=repositories)**
+- 📫 How to reach me : <i>**m.dhanush666dhanu@gmail.com**</i>
+### Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61552124812649) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/m.dhanush_06/) 
@@ -12,9 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=mdhanush666&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdhanush666&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdhanush666&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mdhanush666&limit=5&theme=dark&combine_all_yearly_contributions=true)
