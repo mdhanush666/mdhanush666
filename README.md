@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dhanush</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdhanush666" alt="mdhanush666" /></a> </p>
-
-- 🌱 I’m currently learning **React,Spring Boot, Angular**
+- 🌱 I’m currently learning **React, Spring Boot, Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdhanush666?tab=repositories](https://github.com/mdhanush666?tab=repositories)
 
-- 💬 Ask me about **Java, JavaScript, MySQl, Php,**
+- 💬 Ask me about **Java, JavaScript, MySQl, PLSQL, Php, HTML, CSS, XML, Photoshop, Adobe XD,**
 
 - 📫 How to reach me **m.dhanush666dhanu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=61552124812649" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/f1srnnmqssuwh2yd/?mibextid=qi2omg" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=61552124812649" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61552124812649" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/m.dhanush_06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/m.dhanush_06/" height="30" width="40" /></a>
 </p>
 
@@ -23,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdhanush666&show_icons=true&locale=en&layout=compact" alt="mdhanush666" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdhanush666&show_icons=true&locale=en" alt="mdhanush666" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdhanush666&" alt="mdhanush666" /></p>
