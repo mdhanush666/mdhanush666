@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning - **React | Spring Boot | Angular**
 - 💬 Ask me about - **Java | JavaScript | MySQL | PLSQL | PHP | HTML | CSS | XML | Photoshop | Illustrator | Adobe XD**
-- 👨‍💻 All of my projects are available at : <i>**[https://github.com/mdhanush666?tab=repositories]</i>(https://github.com/mdhanush666?tab=repositories)**
+- 👨‍💻 All of my projects are available at : <i>**[https://github.com/mdhanush666?tab=repositories]</i>**
 - 📫 How to reach me : <i>**m.dhanush666dhanu@gmail.com**</i>
 ### Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
