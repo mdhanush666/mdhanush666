@@ -8,8 +8,8 @@ A student at the beginning of my journey in Software Engineering. Currently, I'm
 
 🎓 Future Studies: Excited to start my formal education in Software Engineering, I look forward to deepening my understanding and working on more complex projects.
 
-- 🌱 I’m currently learning - **React | Spring Boot | Angular**
-- 💬 Ask me about - **Java | JavaScript | MySQL | PLSQL | PHP | HTML | CSS | XML | Photoshop | Illustrator | Adobe XD**
+- 🌱 I’m currently learning - **React | Spring Boot | Python**
+- 💬 Ask me about - **Java | JavaScript | Mode Js | Express | MySQL | MongoDB | Mongoose | PLSQL | PHP | HTML | CSS | XML | Photoshop | Adobe XD**
 - 👨‍💻 All of my projects are available at : <i>**[https://github.com/mdhanush666?tab=repositories]</i>**
 - 📫 How to reach me : <i>**m.dhanush666dhanu@gmail.com**</i>
 ### Quote of the Day
