@@ -2,6 +2,10 @@
 
 A student at the beginning of my journey in Software Engineering. Currently, I'm a self-study student, but I will soon be pursuing a BSc in Software Engineering. My interests span across various areas of Computer Science, and I'm dedicated to enhancing my skills and knowledge.
 
+## 📄 My Resume
+
+[Download My Resume](https://github.com/mdhanush666/Resume/raw/main/Dhanush_Resume.pdf)
+
 💻 Programming: I enjoy writing code and solving problems through different programming languages and paradigms.
 
 📚 Self-Study: I believe in the power of self-learning and have been actively exploring various topics in Computer Science on my own.
