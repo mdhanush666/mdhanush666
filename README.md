@@ -1,3 +1,5 @@
+![Header banner](https://raw.githubusercontent.com/KabileshwaranKabil/mdhanush666/main/dhanush-profile-banner.jpeg)
+
 <h1 align="center">Hii..👋🏻, I'm Dhanush</h1>
 
 A student at the beginning of my journey in Software Engineering. Currently, I'm a self-study student, but I will soon be pursuing a BSc in Software Engineering. My interests span across various areas of Computer Science, and I'm dedicated to enhancing my skills and knowledge.
@@ -53,9 +55,18 @@ A student at the beginning of my journey in Software Engineering. Currently, I'm
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdhanush666&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=mdhanush666&theme=dark&hide_border=false)<br/> <br>
-![](https://github-readme-stats.vercel.app/api?username=mdhanush666&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+## 📊 GitHub Stats  
+<div align="center">
+  <a href="https://github.com/mdhanush666">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdhanush666&theme=2077" width="800" />
+    <br/><br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdhanush666&theme=2077" height="170" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdhanush666&theme=2077" height="170" />
+    <br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdhanush666&theme=2077" height="170" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdhanush666&theme=2077" height="170" />
+  </a>
+</div>
 
 
 ### 🔝 Top Contributed Repo
