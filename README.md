@@ -6,7 +6,7 @@ A student at the beginning of my journey in Software Engineering. Currently, I'm
 
 ## 📄 My Resume
 
-[Download My Resume](https://github.com/mdhanush666/Resume/raw/main/Dhanush_Resume.pdf)
+[Download My Resume](https://github.com/mdhanush666/Resume/Dhanush_Resume.pdf)
 
 💻 Programming: I enjoy writing code and solving problems through different programming languages and paradigms.
 
