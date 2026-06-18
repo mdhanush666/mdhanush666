@@ -1,4 +1,4 @@
-![Header banner](https://raw.githubusercontent.com/mdhanush666/mdhanush666/main/dhanush-profile-banner.jpeg)
+![Header banner](https://github.com/mdhanush666/mdhanush666/blob/main/banner-new.png)
 
 <h1 align="center">Hii..👋🏻, I'm Dhanush</h1>
 
