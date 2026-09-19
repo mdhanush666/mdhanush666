@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=850&height=50&lines=Full-Stack+Developer;Flutter+Developer;Backend+Developer;Software+%26+Intelligent+Systems+Student;Building+Real-World+Applications" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=850&height=50&lines=Full-Stack+Developer;Flutter+Developer;React+Developer;Backend+Developer;Pursuing+B.Tech+in+Software+%26+Intelligent+Systems;Building+Real-World+Applications" />
 </p>
 
 <p align="center">
